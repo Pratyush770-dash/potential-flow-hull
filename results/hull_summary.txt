@@ -1,0 +1,10 @@
+Hull: L=1.0 m, D=0.1429 m (L/D=7.0), Myring nose=0.2, tail=0.3, theta=20.0 deg
+Panels: 200   matrix condition number: 2.18
+Net source (should be ~0): 9.92e-05
+Max residual normal velocity / U: 7.11e-16
+Cp_min = -0.2151 at x/L = 0.138
+Cavitation inception (first order, depth 10.0 m): sigma_i = 0.2151, V_inception = 42.6 m/s
+Re_L = 4.202e+06   Cf(ITTC-57) = 0.00351   form factor = 1.101
+Wetted area = 0.3847 m^2
+Drag estimate at U=5.0 m/s: F = 19.05 N   CD(wetted) = 0.00386   CD(frontal) = 0.09276
+Pressure (form) drag from potential flow = 0 (d'Alembert); drag above is empirical friction + form factor.
